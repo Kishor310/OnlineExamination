@@ -6,10 +6,6 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Dhiraj
- */
 public class Profile extends HttpServlet {
 String prn;
     @Override
